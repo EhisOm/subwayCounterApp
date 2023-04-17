@@ -20,16 +20,17 @@ a {
 #header span {
     background: black;
 }
-h1 a:hover {
-    color: red;
-    padding: 50px;
-}
+
+
 #color-1 {
-    color:teal;
-    
+    color:green;
+}
+
+#color-2 {
+    color: green;
 }
 #app {
-    color: tomato;
+    color: green;
 }
 
 h2 {
@@ -61,80 +62,10 @@ button {
     background: darkgreen;
 }
 
-img {
-    width: 200px;
-}
-#error {
-    color:  red;
-}
 h1,
 h2,
 p,
 
 #save-el {
     color: goldenrod;
-}
-
-/* body{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background: url(images/subway2.jpg) darkgreen; 
-    background-size: cover;
-    background-repeat: no-repeat;
-    color: white;
-    text-align: center;
-    font-weight: bold;
-}
-h1 {
-    color: goldenrod;
-}
-#message-el {
-    font-style: italic;
-} */
-/* 3. Style the button according to the provided design
-text color - #016f32
-width - 150px
-background - goldenrod */
-/* button{
-    background: goldenrod;
-    width: 150px;
-    color: #016f32;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    font-weight: bold;
-    border: none;
-    border-radius: 2px;
-    margin-bottom: 2px;
-    margin-top: 2px;
-}
-button:hover {
-    background: gold;
-}
-
-#apple-shelf {
-    background: darkorange;
-    width: 140px;
-    height: 12px;
-    color: #016f32;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    font-weight: bold;
-    border: none;
-    border-radius: 5px;
-    margin-bottom: 2px;
-    margin-top: 2px;
-    
-}
-#orange-shelf  {
-    background:orangered;
-    width: 140px;
-    height: 12px;
-    color: #016f32;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    font-weight: bold;
-    border: none;
-    border-radius: 5px;
-    margin-bottom: 2px;
-    margin-top: 2px;
-    
 }
